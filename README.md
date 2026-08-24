@@ -23,25 +23,43 @@ My current focus is web development, while continuously strengthening my foundat
 
 ## 🛠️ Technologies & Tools
 
-### Programming
+### 💻 Programming
 
-`C++` `JavaScript`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-`HTML` `CSS` `JavaScript` `React`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</p>
 
-### Backend
+### ⚙️ Backend
 
-`Node.js` `Express`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+</p>
 
-### Databases
+### 🗄️ Databases
 
-`MySQL` `MongoDB`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+</p>
 
-### Tools
+### 🔧 Tools
 
-`Git` `GitHub` `VS Code`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</p>
 
 ---
 
@@ -108,17 +126,13 @@ My goal is to develop the ability to think about software not only at the level 
 
 ## 🌱 Currently Learning
 
-```text
-JavaScript
-  ↓
-React
-  ↓
-Node.js + Express
-  ↓
-Full-Stack Development
-  ↓
-System Design & Architecture
-```
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+</p>
+
+**React → Node.js + Express → Full-Stack Development → System Design & Architecture**
 
 Alongside this, I'm continuously improving my **C++ and DSA** foundations.
 
@@ -154,7 +168,7 @@ More projects coming as I continue learning and building.
 
 I'm always interested in connecting with other developers, students, and people passionate about technology and software engineering.
 
-[LinkedIn](www.linkedin.com/in/dilayehu-dessalegn-70539b388) .[Portfolio](https://dilayehu-dessalegn.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/dilayehu-dessalegn-70539b388) • [Portfolio](https://dilayehu-dessalegn.vercel.app/)
 
 ---
 
