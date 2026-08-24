@@ -154,7 +154,7 @@ More projects coming as I continue learning and building.
 
 I'm always interested in connecting with other developers, students, and people passionate about technology and software engineering.
 
-[LinkedIn](www.linkedin.com/in/dilayehu-dessalegn-70539b388) 
+[LinkedIn](www.linkedin.com/in/dilayehu-dessalegn-70539b388) .[Portfolio](https://dilayehu-dessalegn.vercel.app/)
 
 ---
 
